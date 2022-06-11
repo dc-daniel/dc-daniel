@@ -28,7 +28,6 @@
       
   <a href="https://instagram.com/dc.sk8" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thebadge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/daniel-cristianoti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      
-      ![Snake animation](https://github.com/dc-daniel/dc-daniel/blob/output/github-contribution-grid-snake.svg)
+    
       
 </div>
