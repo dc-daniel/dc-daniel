@@ -7,13 +7,7 @@
 - 📩 Contate-me no email - daniel.cristianoti@hotmail.com
 - 🙂 Pronouns: ele/dele
 
-
-    
-    
-<div align="center">
-  <a href="https://www.linkedin.com/in/daniel-cristianoti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dc-daniel&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dc-daniel&layout=compact&langs_count=7&theme=tokyonight"/>
+![c633c20ede82f0e0ced7d570dbe3a1f3]( https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)  
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Daniel- Git" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
