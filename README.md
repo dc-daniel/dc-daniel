@@ -1,16 +1,18 @@
-### Hi there 👋
+## DANIEL CRISTIANOTI 🍀
+### Oiee ! Bem vido ao meu Perfil 😁
 
-<!--
-**dc-daniel/dc-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏗️ Atualmente trabalho com vendas
+- 🌱 95% Formando em ADS , Estudando JAVA / OOP 
+- 💻 Conhecimento - C / JAVA / PostgreSQL / POO/ UML / LOGICA DE PROGRAMAÇÃO 
+- 📩 Contate-me no email - daniel.cristianoti@hotmail.com
+- 🙂 Pronouns: ele/dele
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+    
+<div align="center">
+  <a href="https://github.com/daniel.dc">
+  <a href="https://github.com/daniel.dc](https://www.linkedin.com/in/daniel-cristianoti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dc-daniel&show_icons=false&theme=&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dc-daniel&layout=compact&langs_count=7&theme=dracula"/>
+</div>
