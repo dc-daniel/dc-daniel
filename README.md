@@ -2,7 +2,7 @@
 ### Oiee ! Bem vido ao meu Perfil 😁
 
 - 🏗️ Atualmente trabalho com vendas
-- 🌱 95% Formando em ADS 
+- 🌱 Formando em ADS 
 - 💻 Conhecimento - C / JAVA / PostgreSQL / POO/ UML / LOGICA DE PROGRAMAÇÃO 
 - 📩 Contate-me no email - daniel.cristianoti@hotmail.com
 
