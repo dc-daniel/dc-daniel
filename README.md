@@ -3,6 +3,7 @@
 
 - 🏗️ Atualmente trabalho com vendas
 - 🌱 Formado em  ADS 
+- 🤯 Cursando PÒS em JAVA
 - 💻 Conhecimento - C / JAVA /JavaScript / PostgreSQL / POO/ UML / LOGICA DE PROGRAMAÇÃO 
 - 📩 Contate-me no email - daniel.cristianoti@hotmail.com
 
