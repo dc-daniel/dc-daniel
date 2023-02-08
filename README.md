@@ -1,7 +1,6 @@
 ## DANIEL CRISTIANOTI 🍀
 ### Oiee ! Bem vido ao meu Perfil 😁
 
-- 🏗️ Atualmente trabalho com vendas
 - 🌱 Formado em  ADS 
 - 🤯 Cursando PÒS em JAVA / UTFPR
 - 💻 Conhecimento - C /JAVA /JavaScript /PostgreSQL / POO /UML /Postman /SpringBoot 
